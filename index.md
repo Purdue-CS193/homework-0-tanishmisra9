@@ -1,8 +1,20 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Tanish's First CS193 Homework**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I’m Tanish — an aspiring tech innovator and a part of the Purdue Class of 2029. 
+
+I’m passionate about exploring how technology can shape the future, especially in areas like artificial intelligence and cybersecurity. I’m curious about how systems work, from smart software to secure networks. 
+
+In fact, I especially love learning about automotive innovation, especially through the World Endurance Championship (WEC) and Formula 1 (F1).
+
+Feel free to reach out; I’m always open to conversations and opportunities!
+
+
+Here are my favorite things about CS193:
+- It provides valuable skills for higher-level courses
+- The TAs are laid back and easy to follow
+- Resources are posted promptly
 
 ### Markdown
 
@@ -25,13 +37,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
